@@ -28,7 +28,7 @@ Download the glb model of your map from [Immersal Developer Portal](https://deve
 
 Place the glb model in the appropriate position using the SpirareEditor.
 
-<img width="640" alt="Plcae the model in SpirareEditor" src="https://github.com/HoloLabInc/ProjectSpirare-ImmersalGeoLocationUpdater/assets/4415085/343eca14-6c75-4f55-9eec-63bfb08b6ec2">
+<img width="640" alt="Place the model in SpirareEditor" src="https://github.com/HoloLabInc/ProjectSpirare-ImmersalGeoLocationUpdater/assets/4415085/eb9a9bc9-f91d-4730-bd18-b86940bb3aaf">
 
 In the Inspector, you can get the following information:
 
