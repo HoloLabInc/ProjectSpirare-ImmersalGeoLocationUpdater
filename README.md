@@ -24,7 +24,7 @@ This will create a Release build of the application.
 
 Download the glb model of your map from [Immersal Developer Portal](https://developers.immersal.com).
 
-### Place the model with
+### Place the model in SpirareEditor
 
 Place the glb model in the appropriate position using the SpirareEditor.
 
