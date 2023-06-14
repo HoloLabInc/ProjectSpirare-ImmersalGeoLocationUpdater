@@ -5,7 +5,7 @@ This tool is designed to be used in combination with SpirareEditor.
 
 ## Prerequisites
 
-- [SpirareEditor](https://github.com/HoloLabInc/spirare-babylonjs)
+- [SpirareEditor](https://github.com/HoloLabInc/spirare-babylonjs) version 1.1.0 or later
 - .NET SDK 6.0 or later (If you want to build the project)
 
 ## Build
